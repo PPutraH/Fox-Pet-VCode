@@ -1,0 +1,6 @@
+{
+  "name": "FoxPet - Autonomous Digital Companion",
+  "description": "An autonomous digital fox pet featuring idle and random behaviors, natural petting interactions, a minimizable preview window, and state persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
